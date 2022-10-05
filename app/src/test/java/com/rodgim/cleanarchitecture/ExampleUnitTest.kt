@@ -1,4 +1,4 @@
-package com.rodgim.cleanar
+package com.rodgim.cleanarchitecture
 
 import org.junit.Test
 
